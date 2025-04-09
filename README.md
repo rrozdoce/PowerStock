@@ -1,2 +1,2 @@
 # PowerStock
-um software de gerenciamento de estoque usando PyQt, e podendo ser integrado com pandas + numpy para a analise de dados
+an inventory management software using PyQt, and can be integrated with pandas + numpy for data analysis
